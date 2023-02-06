@@ -4,7 +4,7 @@ Submitted by: Chongjian Tang
 
 GameLoversHome is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 3 hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='PreWork.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
